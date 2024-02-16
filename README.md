@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Havanur and I'm an Computer Engineering student.</p>
+<p align="left">My name is Havanur and I'm a Computer Engineering student.</p>
 
 ###
 
